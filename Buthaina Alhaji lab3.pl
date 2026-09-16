@@ -7,8 +7,8 @@ male(ahmed).
 male(mohammed).
 male(saad).
 
-parent(ahmad,saad).
-parent(ahmad,rana).
+parent(ahmed,saad).
+parent(ahmed,rana).
 parent(noof,saad).
 parent(noof,rana).
 parent(jory,reem).

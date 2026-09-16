@@ -1,0 +1,23 @@
+29 ?- father(khaled,rana).
+false.
+
+30 ?- father(ahmed,rana).
+true.
+
+31 ?- mother(jory,ahmed).
+false.
+
+32 ?- mother(jory,mohammed).
+true.
+
+33 ?- sister(reem,noof).
+true 
+
+34 ?- sister(rana,saad).
+true .
+
+35 ?- brother(saad,rana).
+true .
+
+36 ?- brother(mohammed,jory).
+false.
